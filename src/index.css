@@ -1,0 +1,9 @@
+.formsection{
+  background-color: rgb(243, 115, 115);
+  height: 50vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+}
